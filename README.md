@@ -2,6 +2,9 @@
 Proyecto Final para optar por la modalidad de graduación via diplomado
 -----------------------------------------------------------------------
 
+# 🦆 LINK DEL TUTORIAL PARA EJECUTAR EL PROYECTO CORRECTAMENTE
+
+https://youtu.be/xahM8iO8fJM
 
 # 🏨 Hotel Viña del Sur — Sistema de Gestión de Reservas
 
